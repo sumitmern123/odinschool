@@ -1,0 +1,3 @@
+-> Git and Git Hub 
+  -> Git :- It is a distributed version control system for tracking changes in source code during development.(software)(command line tool)(local)(linux)
+  -> Github : web based Git repository hosting service ,which offers all if the distributed revison control and SCM .(service)(GUI)(web)(microsoft)
